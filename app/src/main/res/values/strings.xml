@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app2_database</string>
+    <string name="producent">Producent</string>
+    <string name="model">Model</string>
+    <string name="pasek_menu">pasek_menu</string>
+    <string name="Clear">Clear</string>
+</resources>
